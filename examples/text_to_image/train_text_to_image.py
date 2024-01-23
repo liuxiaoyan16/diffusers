@@ -495,7 +495,7 @@ def parse_args():
     return args
 
 
-def main():
+def main():MMMMMMMMMMMMMMMMMMMMMMMMMM
     args = parse_args()
 
     if args.non_ema_revision is not None:
